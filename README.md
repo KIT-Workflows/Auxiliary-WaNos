@@ -1,5 +1,5 @@
 
-When publishing results obtained with DFT-VASP WaNo, please consider citing it.
+When publishing results obtained with Mult-It **WaNo**, please consider citing it.
 
 # Mult-It
 
