@@ -5,4 +5,4 @@ When publishing results obtained with Mult-It **WaNo**, please consider citing i
 
 ![Mult-It WaNo logo](https://raw.githubusercontent.com/KIT-Workflows/Mult-It/main/mult-It_logo.png)
 
-The Mult-It **WaNo** makes it easy to create lists of floats and integers and read lists of file names! Give it a try and see how it simplifies your workflow! This **WaNo** streamlines the process of preparing data for the following workflow step allowing you to quickly generate the necessary lists and read the file names in a given `.tar` file.
+The Mult-It **WaNo** significantly streamlines generating lists and managing data within your workflow. With this tool, effortlessly create lists of both floats and integers and conveniently read lists of file names. Experience how it simplifies your workflow by trying it out. Its capability to swiftly prepare data for subsequent workflow steps is a significant advantage. Specifically, it aids in quickly generating the required lists and reading file names from `.tar` files.
